@@ -1,25 +1,25 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Jayesh Shadi",
+	title: "Hi all, I'm Jayesh",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+	"I am Full Stack Developer from India.I enjoy taking complex problems and converting them into simple and beautiful working models.I also love the logic and Structure of Coding and always solve to write elegant and efficient code whether it be HTML, CSS or JQuery.I have always admired and found Technology Fascinating.Its Not that we use Technology we Live Technology.",
+	resumeLink: "https://drive.google.com/file/d/1eOPVWN_uINUbCHFUOrMei3nyxEHBhQRF/view?usp=sharing",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "jayesh-shadi",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	facebook: "https://www.facebook.com/profile.php?id=100008979016534",
+	instagram: "https://www.instagram.com/jayesh_shadi/",
+	twitter: "https://twitter.com/jayesh_shadi",
+	github: "https://github.com/jayesh-shadi",
+	linkedin: "https://www.linkedin.com/in/jayesh-shadi-02486a10a/",
 };
 
 export const skillsSection = {
@@ -31,11 +31,9 @@ export const skillsSection = {
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Develop Progressive Web Applications"
 		),
-		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-		),
+
 	],
 
 	softwareSkills: [
@@ -48,32 +46,28 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-css",
 		},
 		{
-			skillName: "sass",
-			fontAwesomeClassname: "logos:sass",
-		},
-		{
 			skillName: "JavaScript",
 			fontAwesomeClassname: "logos:javascript",
-		},
-		{
-			skillName: "TypeScript",
-			fontAwesomeClassname: "logos:typescript-icon",
 		},
 		{
 			skillName: "reactjs",
 			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 		},
 		{
+			skillName: "Java",
+			fontAwesomeClassname: "logos:java",
+		},
+		{
+			skillName: "SQL",
+			fontAwesomeClassname: "logos:mysql",
+		},
+		{
+			skillName: "Django",
+			fontAwesomeClassname: "logos:django",
+		},
+		{
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
-		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
 		},
 		{
 			skillName: "npm",
@@ -87,10 +81,7 @@ export const skillsSection = {
 			skillName: "mongoDB",
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
-		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
+		
 		{
 			skillName: "firebase",
 			fontAwesomeClassname: "logos:firebase",
@@ -103,17 +94,14 @@ export const skillsSection = {
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
 		},
-		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
-		},
+		
 	],
 };
 
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "85", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
@@ -127,92 +115,82 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Vivekanand Education Society's Institute Of Technology",
+		subHeader: "B.E. in Computer Engineering",
+		duration: "August 2018 - July 2022",
+		desc: "Mumbai, India",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"SORT Incharge for 3 Consecutive years.",
+			"Published Research Paper on Chikitsak: Disease Prediction System using Machine Learning (ISO 9001:2008 Certified Journal) ",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Ideal Junior College",
+		subHeader: "High School(PCM)",
+		duration: "August 2016 - March 2018",
+		desc: "Hyderabad, Telangana.",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Secured 94.3% in High School",
 		],
 	},
 	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+		schoolName: "Kk Cambridge International Schoool",
+		subHeader: "Secondary School",
+		duration: "August 2011 - March 2016",
+		desc: "Amravati, Maharashtra",
 		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+			"Yellow House Leader",
+			"Won Story Writing Competition",
 		],
 	},
 ];
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
-		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Web Developer Intern",
+		company: "VESIT RENAISSANCE",
+		companylogo: "/img/icons/common/ves.jfif",
+		date: "May 2020-July 2020",
+		desc: "",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Developed a Website for College Faculty Profile.",
+			"Experienced the real-time Application of known programming languages. Technologies Used: - HTML5, CSS, JAVASCRIPT.",
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: "/img/icons/common/github.svg",
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Machine Learning Intern",
+		company: "XANE.AI",
+		companylogo: "/img/icons/common/xane.ai.jpeg",
+		date: "September 2020 – October 2020",
+		desc: "Used Machine learning to create a model that predicts which passengers survived the Titanic shipwreck.",
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Managed Network Expert",
+		company: "CHEGG INC",
+		companylogo: "/img/icons/common/chegg.jpeg",
+		date: "Septeber 2020-November 2020",
+		desc: "Worked as a Part-time Question and Answer Expert where the tasks consisted of answering the questions based on concepts of Computer Science and Engineering.",
 	},
 ];
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Automated Crowd Management in Public Bus Transport System. (06/2021 – 08/2021)",
+		desc: "",
+		desc:[
+			"Worked as an Application Developer that tend to minimize the human intervention to provide the travelers who are waiting at the bus stop with the live crowd density of the bus approaching next. (Features: - Live Bus location update) ",
+			"Technologies Used: - Android Studio, Java. ",
+			"For Model Training CNN was Used. ",
+		],
+		link:"https://github.com/jayesh-shadi/Automated-Crowd-Management-system-in-Bus",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-	},
-	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
+		name: "Chikitsak- Disease Prediction using Machine Learning (06/2020 - 04/2021)",
+		desc:[
+			"Worked on Django (Python Based Web Framework) for Backend. HTML, CSS, Bootstrap, JavaScript, jQuery for the frontend and PostgreSQL as the Database. This Project was mainly focused on building a web application that that predicts an illness based on the information or symptoms entered into the system and provides precise results.• For Model Training: - Random Forest, Decision Tree and Naive Bayes Classifier Algorithms were used to achieve the maximal accurate result."
+		],
+
+		link: "https://github.com/jayesh-shadi/Chikitsak-Disease_Prediction_Using_Machine_Learning",
 	},
 ];
 
-export const feedbacks = [
-	{
-		name: "Hassan Mehmood",
-		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-	},
-];
