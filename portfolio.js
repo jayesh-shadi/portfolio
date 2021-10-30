@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Jayesh",
 	description:
 	"I am Full Stack Developer from India.I enjoy taking complex problems and converting them into simple and beautiful working models.I also love the logic and Structure of Coding and always solve to write elegant and efficient code whether it be HTML, CSS or JQuery.I have always admired and found Technology Fascinating.Its Not that we use Technology we Live Technology.",
-	resumeLink: "https://drive.google.com/file/d/1eOPVWN_uINUbCHFUOrMei3nyxEHBhQRF/view?usp=sharing",
+	resumeLink: "https://drive.google.com/file/d/13SoWgQBkCEJCXFhzw0ODbSe96AKoU5Nb/view?usp=sharing",
 };
 
 export const openSource = {
